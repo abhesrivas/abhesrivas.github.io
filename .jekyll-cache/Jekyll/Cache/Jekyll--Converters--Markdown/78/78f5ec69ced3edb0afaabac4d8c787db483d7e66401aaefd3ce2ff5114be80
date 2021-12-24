@@ -1,4 +1,4 @@
-I"..<h1 id="markdown-support">Markdown Support</h1>
+I" .<h1 id="markdown-support">Markdown Support</h1>
 
 <p>As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the <a href="https://guides.github.com/features/mastering-markdown/">Markdown syntax</a>. Examples of these text formatting features can be seen below. You can find this post in the <code class="language-plaintext highlighter-rouge">_posts</code> directory.</p>
 
@@ -75,7 +75,7 @@
 
 <p>To add an image, use <code class="language-plaintext highlighter-rouge">![alt text](&lt;Image url&gt; "Image meta title")</code>:</p>
 
-<p><img src="http://noirve.com/wp-content/uploads/2013/10/DTTSP_Coffee.jpg" alt="alt text" title="Example" /></p>
+<p><img src="abhesrivas.github.io/assets/img/self-cs-cmu.jpeg" alt="alt text" title="Myself" /></p>
 
 <h2 id="unordered-and-numbered-lists">Unordered and Numbered Lists</h2>
 
