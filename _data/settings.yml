@@ -8,8 +8,8 @@ google-ID: ''
 
 menu:
 - {name: 'About',   url: 'about.html'}
-- {name: 'Blog', url: 'writing.html'}
-- {name: 'Projects', url: 'writing.html'}
+- {name: 'Blog', url: 'blogposts.html'}
+- {name: 'Projects', url: 'blogposts.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -26,7 +26,7 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+# sharing_button_prompt: 'Feel free to share!'
 
 related_posts: 'You may also enjoy:'
 

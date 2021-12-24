@@ -1,5 +1,5 @@
 /* Base */
-body { font-family: "PT Serif", Georgia, "Times New Roman", serif; font-size: 18px; color: #505050; line-height: 1.75rem; }
+body { font-family: "PT Serif", Georgia, "Times New Roman", serif; font-size: 16px; color: #505050; line-height: 1.75rem; }
 
 @media (max-width: 30em) { body { font-size: 14px; line-height: 1.5rem; } body h1 { font-size: 1.5rem; } }
 
@@ -9,6 +9,8 @@ h1 a { text-decoration: none; }
 
 h1, h2, h3, h4, h5, h6 { font-family: "Quattrocento Sans", sans-serif; color: #333; }
 
+h2, h3, h4, h5, h6 { margin-bottom: 5px; margin-top: 5px; }
+
 a { text-decoration: underline; color: #333; }
 
 a:hover { color: black; border-bottom: none; }
@@ -17,7 +19,9 @@ img { max-width: 100%; height: auto; border-radius: 5px; }
 
 blockquote { margin: 10px 20px 10px; padding: 0px 15px; border-left: 0.25em solid #ccc; color: #999; line-height: 1.5; }
 
-hr { border-top: 1px solid #ccc; }
+p { margin-top: 0px; }
+
+hr { border-top: 1px solid #ccc; margin-top: 10px; margin-bottom: 10px; }
 
 /* Tables */
 table { border-collapse: collapse; margin-bottom: 30px; width: 100%; }
@@ -92,6 +96,10 @@ pre.highlight { white-space: pre; overflow-x: auto; }
 .footer a:hover { color: #333; }
 
 .footer-description { display: block; margin-top: 3px; margin-bottom: 1rem; color: #999; font-family: "Quattrocento Sans", sans-serif; font-size: 0.8rem; }
+
+dl { list-style-type: none; }
+
+dl > dt:before { content: ''; background: white; display: inline-block; position: relative; border-radius: 50%; border: 3px solid #000000; /* was #22c0e8 */ right: 10px; width: 5px; height: 5px; z-index: 400; }
 
 /* Posts */
 .posts-container { margin-bottom: 5rem; padding: 0px; list-style: none; }

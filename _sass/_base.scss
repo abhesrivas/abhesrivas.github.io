@@ -4,7 +4,7 @@
 
 body {
   font-family: $serif-font-family;
-  font-size: 18px;
+  font-size: 16px;
   color: $body-color;
   line-height: 1.75rem;
 }
@@ -32,6 +32,11 @@ h1, h2, h3, h4, h5, h6 {
   color: $dark-gray-color;
 }
 
+h2, h3, h4, h5, h6 {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
 a {
   text-decoration: underline;
   color: $dark-gray-color;
@@ -56,8 +61,14 @@ blockquote {
   line-height: 1.5;
 }
 
+p {
+  margin-top: 0px;
+}
+
 hr {
   border-top: 1px solid $extra-light-gray-color;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /*

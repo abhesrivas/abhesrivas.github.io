@@ -111,3 +111,36 @@
   font-family: $sans-serif-font-family;
   font-size:0.8rem;
 }
+
+dl {
+  list-style-type: none;
+}
+
+// dl:before {
+//   content: ' ';
+//   background: #d4d9df;
+//   display: inline-block;
+//   position: absolute;
+//   left: 29px;
+//   width: 2px;
+//   height: 100%;
+//   z-index: 400;
+// }
+
+dl > dt:before {
+  content: '';
+  background: white;
+  display: inline-block;
+  position: relative;
+  border-radius: 50%;
+  border: 3px solid #000000; /* was #22c0e8 */
+  right: 10px;
+  width: 5px;
+  height: 5px;
+  z-index: 400;
+}
+
+// dl >dt, dl > dd {
+//   margin: 6pt 0; /* was 20px */
+//   padding-left: 60px;
+// }

@@ -4,4 +4,8 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+Having had a few awesome mentors in my life, I realize the importance of having someone to guide and validate your ideas. However, I also realize that not everyone has access to mentorship.
+
+To step towards better inclusion, I am opening up my mailbox to anyone looking to discuss anything from graduate admissions to research internships.
+
+Feel free to e-mail me at [abhesrivastava@gmail.com](mailto:abhesrivastava@gmail.com) and I will find some time to chat with you!

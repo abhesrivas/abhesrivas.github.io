@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-24T04:15:21-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">abhesrivas</title><subtitle>ml/nlp grad</subtitle><entry><title type="html">Graduate journey at CMU!</title><link href="http://localhost:4000/cmu" rel="alternate" type="text/html" title="Graduate journey at CMU!" /><published>2021-12-24T00:00:00-05:00</published><updated>2021-12-24T00:00:00-05:00</updated><id>http://localhost:4000/cmu</id><content type="html" xml:base="http://localhost:4000/cmu">&lt;p&gt;Hi, I am Abhi and this is my new website. Seems empty? It is.&lt;/p&gt;</content><author><name>Abhi</name></author><category term="journal" /><category term="documentation" /><category term="sample" /><summary type="html">Hi, I am Abhi and this is my new website. Seems empty? It is.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cutting.jpg" /><media:content medium="image" url="http://localhost:4000/cutting.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome to Lagrange!</title><link href="http://localhost:4000/welcome-to-lagrange" rel="alternate" type="text/html" title="Welcome to Lagrange!" /><published>2016-01-01T00:00:00-05:00</published><updated>2016-01-01T00:00:00-05:00</updated><id>http://localhost:4000/welcome-to-lagrange</id><content type="html" xml:base="http://localhost:4000/welcome-to-lagrange">&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-24T08:42:22-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">abhesrivas</title><subtitle>ml/nlp grad</subtitle><entry><title type="html">Hey Siri, see you in the summer!</title><link href="http://localhost:4000/news/2021-12-24-apple-intern" rel="alternate" type="text/html" title="Hey Siri, see you in the summer!" /><published>2021-12-24T00:00:00-05:00</published><updated>2021-12-24T00:00:00-05:00</updated><id>http://localhost:4000/news/apple-intern</id><content type="html" xml:base="http://localhost:4000/news/2021-12-24-apple-intern">&lt;hr /&gt;
+
+&lt;p&gt;Dear Internet,&lt;/p&gt;
+
+&lt;p&gt;Two days ago I accepted the offer to intern with the Siri Team at Apple. I shared this news on LinkedIn and since then I have been overwhelmed by the wishes I have received. Many also posed queries about the interview process and the preparation required to crack it.&lt;/p&gt;
+
+&lt;p&gt;In this post, I will share my experience along with the tips I have to prepare for such an interview.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;this-is-not-a-masterclass&quot;&gt;This is not a masterclass&lt;/h3&gt;
+
+&lt;p&gt;Before we start, let’s go over some basic considerations,&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I interviewed for the &lt;strong&gt;AIML Intern&lt;/strong&gt; position which is different from other roles (such as SDE) and therefore, this post might not reflect how the process looks for other roles.&lt;/li&gt;
+  &lt;li&gt;Even within AI/ML, my research field is primarily focused on NLP and therefore, it is possible that the rounds look different for other fields.&lt;/li&gt;
+  &lt;li&gt;Finally, each interviewer has a unique interviewing style and experiences/rounds may widely differ for the same role. Therefore, read my experience as only an &lt;em&gt;experience&lt;/em&gt; and not a masterclass!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;phase-one-pre-interview&quot;&gt;Phase one: Pre-interview&lt;/h3&gt;
+&lt;p&gt;I applied for the role in early October with a referral from a senior. I messaged him on LinkedIn and kindly asked if he could refer me for the role. I heard back from the recruiter the following month in November asking for my availability to schedule the interviews.&lt;/p&gt;
+
+&lt;p&gt;I was told that &lt;em&gt;usually&lt;/em&gt;, there are two rounds of interviews but the team can have more if required.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;phase-two-interviews&quot;&gt;Phase two: Interviews&lt;/h3&gt;
+
+&lt;h4 id=&quot;1-live-coding&quot;&gt;1. Live-coding&lt;/h4&gt;
+&lt;p&gt;The first round was a live-coding round where I was asked to solve a coding problem on &lt;a href=&quot;https://coderpad.io&quot;&gt;coderpad.io&lt;/a&gt; (one of my favourite live-coding platforms!) It was an array problem and would probably fall into the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;medium&lt;/code&gt; category on &lt;a href=&quot;https://leetcode.com&quot;&gt;leetcode&lt;/a&gt;. The interviewer was very interactive and swiftly answered all my clarification questions. After I solved the problem, they asked me to discuss the time complexity of the code which I did. We were left with ~15 minutes out of the allotted one hour when the interviewer asked me to get ready for the second question. My heart skipped a beat – there’s one more? There wasn’t. They were joking (&lt;em&gt;*sigh*&lt;/em&gt;). We both laughed and proceeded to the final part where I could ask them any questions that I had.&lt;/p&gt;
+
+&lt;p&gt;The next day I heard back from the recruiter – I had made it to the next round.&lt;/p&gt;
+
+&lt;!-- #### Round one: Coding --&gt;
+
+&lt;h4 id=&quot;reflections-from-round-1&quot;&gt;Reflections from Round 1:&lt;/h4&gt;
+
+&lt;h4 id=&quot;2-research-calibre&quot;&gt;2. Research-calibre&lt;/h4&gt;
+
+&lt;h4 id=&quot;reflections-from-round-2&quot;&gt;Reflections from Round 2:&lt;/h4&gt;</content><author><name>Abhi</name></author><category term="news" /><category term="cmu" /><category term="news" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/apple.gif" /><media:content medium="image" url="http://localhost:4000/apple.gif" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A glance into the MIIS socials!</title><link href="http://localhost:4000/posts/2021-12-24-miis-gsa" rel="alternate" type="text/html" title="A glance into the MIIS socials!" /><published>2021-12-24T00:00:00-05:00</published><updated>2021-12-24T00:00:00-05:00</updated><id>http://localhost:4000/posts/miis-gsa</id><content type="html" xml:base="http://localhost:4000/posts/2021-12-24-miis-gsa">&lt;p&gt;08/23/2021: An impromptu MIIS gathering at the Schenley plaza after orientation.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;There is a famous CS joke that goes,&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;How can you tell if a computer scientist is an introvert or an extrovert? &lt;br /&gt;
+The introvert computer scientist looks at his own shoe while talking while the extrovert looks at the shoes of the person they are talking with.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What &lt;em&gt;bulls**t&lt;/em&gt;, right? Such generalisation can’t be right – I wonder… sitting at my laptop without any breaks&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/miis-social-2.jpeg&quot; /&gt;
+08/23/2021: An impromptu MIIS gathering at the Schenley plaza after orientation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/miis-social-3.jpeg&quot; /&gt;
+08/23/2021: An impromptu MIIS gathering at the Schenley plaza after orientation.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/img/miis-social-4.jpeg&quot; /&gt;
+08/23/2021: An impromptu MIIS gathering at the Schenley plaza after orientation.&lt;/p&gt;</content><author><name>Abhi</name></author><category term="posts" /><category term="cmu" /><category term="fun" /><summary type="html">08/23/2021: An impromptu MIIS gathering at the Schenley plaza after orientation.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/miis-social-1.jpeg" /><media:content medium="image" url="http://localhost:4000/miis-social-1.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">My first semester at CMU</title><link href="http://localhost:4000/blog/2021-12-24-fall-2021" rel="alternate" type="text/html" title="My first semester at CMU" /><published>2021-12-24T00:00:00-05:00</published><updated>2021-12-24T00:00:00-05:00</updated><id>http://localhost:4000/blog/fall-2021</id><content type="html" xml:base="http://localhost:4000/blog/2021-12-24-fall-2021">&lt;p&gt;Hi, I am Abhi and this is my new website. Seems empty? It is.&lt;/p&gt;</content><author><name>Abhi</name></author><category term="blog" /><category term="cmu" /><category term="news" /><summary type="html">Hi, I am Abhi and this is my new website. Seems empty? It is.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cutting.jpg" /><media:content medium="image" url="http://localhost:4000/cutting.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Graduate journey at CMU!</title><link href="http://localhost:4000/news/2021-12-24-news-cmu" rel="alternate" type="text/html" title="Graduate journey at CMU!" /><published>2021-12-24T00:00:00-05:00</published><updated>2021-12-24T00:00:00-05:00</updated><id>http://localhost:4000/news/news-cmu</id><content type="html" xml:base="http://localhost:4000/news/2021-12-24-news-cmu">&lt;p&gt;Hi, I am Abhi and this is my new website. Seems empty? It is.&lt;/p&gt;</content><author><name>Abhi</name></author><category term="news" /><category term="cmu" /><category term="news" /><summary type="html">Hi, I am Abhi and this is my new website. Seems empty? It is.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/cutting.jpg" /><media:content medium="image" url="http://localhost:4000/cutting.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome to Lagrange!</title><link href="http://localhost:4000/journal/2016-01-01-welcome-to-lagrange" rel="alternate" type="text/html" title="Welcome to Lagrange!" /><published>2016-01-01T00:00:00-05:00</published><updated>2016-01-01T00:00:00-05:00</updated><id>http://localhost:4000/journal/welcome-to-lagrange</id><content type="html" xml:base="http://localhost:4000/journal/2016-01-01-welcome-to-lagrange">&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
 
 &lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
 

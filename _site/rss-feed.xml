@@ -16,8 +16,50 @@
 </description>
 				
 				<pubDate>Fri, 24 Dec 2021 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/cmu</link>
-				<guid isPermaLink="true">http://localhost:4000/cmu</guid>
+				<link>http://localhost:4000/news/2021-12-24-news-cmu</link>
+				<guid isPermaLink="true">http://localhost:4000/news/2021-12-24-news-cmu</guid>
+			</item>
+		
+			<item>
+				<title>Hey Siri, see you in the summer!</title>
+				
+					<dc:creator>Abhi</dc:creator>
+				
+				
+					<description>&lt;hr /&gt;
+</description>
+				
+				<pubDate>Fri, 24 Dec 2021 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/news/2021-12-24-apple-intern</link>
+				<guid isPermaLink="true">http://localhost:4000/news/2021-12-24-apple-intern</guid>
+			</item>
+		
+			<item>
+				<title>A glance into the MIIS socials!</title>
+				
+					<dc:creator>Abhi</dc:creator>
+				
+				
+					<description>&lt;p&gt;08/23/2021: An impromptu MIIS gathering at the Schenley plaza after orientation.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 24 Dec 2021 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/posts/2021-12-24-miis-gsa</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/2021-12-24-miis-gsa</guid>
+			</item>
+		
+			<item>
+				<title>My first semester at CMU</title>
+				
+					<dc:creator>Abhi</dc:creator>
+				
+				
+					<description>&lt;p&gt;Hi, I am Abhi and this is my new website. Seems empty? It is.&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 24 Dec 2021 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/blog/2021-12-24-fall-2021</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/2021-12-24-fall-2021</guid>
 			</item>
 		
 			<item>
@@ -30,8 +72,8 @@
 </description>
 				
 				<pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/welcome-to-lagrange</link>
-				<guid isPermaLink="true">http://localhost:4000/welcome-to-lagrange</guid>
+				<link>http://localhost:4000/journal/2016-01-01-welcome-to-lagrange</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/2016-01-01-welcome-to-lagrange</guid>
 			</item>
 		
 			<item>
