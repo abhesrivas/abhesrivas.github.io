@@ -3,7 +3,7 @@ layout: page
 title: Namaste!
 permalink: /about
 redirect_from:
-    - /index
+    - /index.html
 image: cmu-cs-self.png
 ---
 <!-- ![alt text](../assets/img/cmu-cs-self.png) -->
