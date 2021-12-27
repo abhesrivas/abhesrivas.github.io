@@ -60,8 +60,8 @@ Good news: I got in!
 
 #### Reflections from Round 2:
 * This type of an interview is not a _viva-voce_ but a discussion, therefore, interact with the interviewer. Besides your domain expertise, they also want to gauge your collaborative skills and whether you can work in a team or not. Try to work out the solution *together*.
-* Try to connect your ideas to your past projects. If you think of an approach **X** that could be used to solve a problem **Y**, perhaps you could mention one of your projects where you tried something similar to **X** and it led to some improvements. This can demonstrate your prior experience, as well as, your ability to re-use your or someone else's work – it is not a good idea to reinvent the wheel.
-* Know the architecture and common issues associated with the models you have used in the past in **depth**. For e.g., if you have used _transformers_, know the computational complexity of self-attention and how it increases quadratically with sequence-length.
+* Try to connect your ideas to your past projects. If you think of an approach X that could be used to solve a problem Y, perhaps you could mention one of your projects where you tried something similar to X and it led to some improvements. This can demonstrate your prior experience, as well as, your ability to re-use your or someone else's work – it is not a good idea to reinvent the wheel.
+* Know the architecture and common issues associated with the models you have used in the past in depth. For e.g., if you have used _transformers_, know the computational complexity of self-attention and how it increases quadratically with sequence-length.
 * Prepare a high-level summary of other similar models even though you may not have used them. This is not super-important but really helps in these design questions. For e.g., if you have used transformers, you might want to know a little about Transformers-XL and how it differs from the vanilla implementation.
 
 ---
