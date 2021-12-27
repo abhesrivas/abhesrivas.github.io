@@ -13,7 +13,7 @@ image: cmu-cs-self.png
 
 I am a CS master's student at **L**anguage **T**echnologies **I**nstitute, CMU majoring in _Intelligent Information Systems_ (MIIS.) 
 
-I am a research assistant under [Dr. Alan Black](https://www.cs.cmu.edu/~awb/) working on text rewriting 
+I am a research assistant under [Dr. Alan Black](https://www.cs.cmu.edu/~awb/) working on constrained text rewriting in recipe domain.
 
 Additionally, I serve as the Graduate Student Assembly representative for MIIS ([sometimes we party!](../posts/2021-12-24-miis-gsa))
 
@@ -49,7 +49,7 @@ I was born and raised in [Varanasi, India](https://www.britannica.com/place/Vara
 
 ### News
 [Dec 2021 – I will intern at Apple in Summer '22!](../news/2021-12-24-apple-intern) <span style="color:brown">[new]</span>\\
-[Aug 2021 – I started my master's at CMU!](../news/2021-12-24-news-cmu) <span style="color:brown">[new]</span>\\
+<!-- [Aug 2021 – I started my master's at CMU!](../news/2021-12-24-news-cmu) <span style="color:brown">[new]</span>\\ -->
 <!-- [Aug 2021 – I am a graduate student at CMU now!]({{ site.github.url }}{% post_url 2021-12-24-news-cmu %}) -->
 
 

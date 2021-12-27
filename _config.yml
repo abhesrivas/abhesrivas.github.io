@@ -12,6 +12,7 @@
 
 # jekyll-paginate configuration
 paginate:            5
+hide_related_posts: true
 
 # Build settings
 markdown:            kramdown
