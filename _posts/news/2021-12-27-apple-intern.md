@@ -11,7 +11,7 @@ image: apple.gif
 ---
 Dear Internet,
 
-Two days ago I accepted the offer to intern with the Siri Team at Apple. I shared this news on LinkedIn and have since then been overwhelmed by the wishes I have received. Many also posed queries about the interview process and the preparation required to crack it.
+Four days ago I accepted the offer to intern with the Siri Team at Apple. I shared this news on LinkedIn and have since then been overwhelmed by the wishes I have received. Many also posed queries about the interview process and the preparation required to crack it.
 
 In this post, I will share my experience along with the tips I have to prepare for such an interview.
 
