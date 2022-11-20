@@ -58,7 +58,8 @@ In my free time, I learn whatever musical instrument I can lay my hands on inclu
 ---
 
 ### News
-Dec 2021 – I will intern at Apple in Summer '22!
+**Nov 2022** – I will graduate from my master's in December '22!\\
+**Dec 2021** – I will intern at Apple in Summer '22!
 <!-- [Dec 2021 – I will intern at Apple in Summer '22!](../news/2021-12-24-apple-intern) <span style="color:brown">[new]</span>\\ -->
 <!-- [Aug 2021 – I started my master's at CMU!](../news/2021-12-24-news-cmu) <span style="color:brown">[new]</span>\\ -->
 <!-- [Aug 2021 – I am a graduate student at CMU now!]({{ site.github.url }}{% post_url 2021-12-24-news-cmu %}) -->

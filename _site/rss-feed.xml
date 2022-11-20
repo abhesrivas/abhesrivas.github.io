@@ -7,6 +7,20 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Learning Representations for Domain Adaptation</title>
+				
+					<dc:creator>Abhishek, Samarth &amp; Swarnashree</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Sun, 08 May 2022 00:00:00 -0400</pubDate>
+				<link>http://localhost:4000/2022-05-08-vlr-project</link>
+				<guid isPermaLink="true">http://localhost:4000/2022-05-08-vlr-project</guid>
+			</item>
+		
+			<item>
 				<title>Graduate journey at CMU!</title>
 				
 					<dc:creator>Abhi</dc:creator>
@@ -21,27 +35,12 @@
 			</item>
 		
 			<item>
-				<title>Hey Siri, see you in the summer!</title>
-				
-					<dc:creator>Abhi</dc:creator>
-				
-				
-					<description>&lt;hr /&gt;
-&lt;p&gt;Dear Internet,&lt;/p&gt;
-</description>
-				
-				<pubDate>Fri, 24 Dec 2021 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/news/2021-12-24-apple-intern</link>
-				<guid isPermaLink="true">http://localhost:4000/news/2021-12-24-apple-intern</guid>
-			</item>
-		
-			<item>
 				<title>A glance into the MIIS socials!</title>
 				
 					<dc:creator>Abhi</dc:creator>
 				
 				
-					<description>&lt;p&gt;08/23/2021: An impromptu MIIS gathering at the Schenley plaza right after orientation.&lt;/p&gt;
+					<description>&lt;p&gt;05/13/2022: MIIS Graduation Dinner – we all gathered at The Foundry to bid adieu to the MIIS batch of 2020!&lt;/p&gt;
 </description>
 				
 				<pubDate>Fri, 24 Dec 2021 00:00:00 -0500</pubDate>
